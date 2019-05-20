@@ -1,1 +1,1 @@
-# personal-configs
+#  I am a linux hobbyist using Github as a place to store configurations for future builds. Put simply, I have gotten tired of having to remember everything I have done in the past and trying to replicate it.
